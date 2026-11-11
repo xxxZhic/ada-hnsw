@@ -1,0 +1,9 @@
+# Build artifacts
+compile_test
+*.so
+*.o
+*.egg-info/
+build/
+dist/
+__pycache__/
+*.pyc

@@ -1,0 +1,4 @@
+numpy>=1.26
+pybind11>=2.12
+setuptools>=68
+hnswlib==0.8.0

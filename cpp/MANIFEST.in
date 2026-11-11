@@ -1,0 +1,2 @@
+include b_only_policy.h
+recursive-include hnswlib *.h LICENSE
